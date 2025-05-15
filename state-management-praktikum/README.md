@@ -132,7 +132,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 1. Implementasi URL State	 
 
-![Screenshot](assets-report/61.png.png)
+![Screenshot](assets-report/61.png)
 
 2. Gunakan Komponen dalam halaman
 
